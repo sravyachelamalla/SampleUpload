@@ -1,0 +1,7 @@
+
+
+Use of Macros in Excel:
+
+If you have tasks in Microsoft Excel that you do repeatedly, you can record a macro to automate those tasks.
+A macro is an action or a set of actions that you can run as many times as you want. 
+When you create a macro, you are recording your mouse clicks and keystrokes.
